@@ -1,0 +1,15 @@
+cookie:
+  expiry_days: 30
+  key: rag_pdf_super_secret_key_2024_xyz!
+  name: rag_pdf_auth_cookie
+credentials:
+  usernames:
+    admin:
+      email: admin@example.com
+      name: Admin User
+      password: $2b$12$dl6CzMbEj2sw2pBIZMArGekKadYBWDJfyQuqgTnRwACEBQ30YBRt2
+    user1:
+      email: user1@example.com
+      name: User One
+      password: $2b$12$oAtKls4qz/QfDHuBX176cuVssM7cbUSa/3HvW8eyCB7t9J6XJN1NO
+pre_authorized: []
