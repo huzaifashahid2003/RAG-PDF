@@ -153,8 +153,3 @@ Prompt + Context → Gemini 2.5 Flash → Answer
 | `bcrypt` | Password hashing |
 | `pyyaml` | YAML config parsing |
 
----
-
-## License
-
-This project is open-source and available under the [MIT License](LICENSE).
